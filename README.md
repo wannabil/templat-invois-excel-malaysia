@@ -33,7 +33,7 @@ Format nombor yang disyorkan: `JENIS-TAHUN-NNN` (contoh `INV-2026-002`). Satu si
 - Susah nak nampak siapa belum bayar
 - Ramai staf edit fail yang sama
 
-Bila tanda-tanda ini muncul, satu sistem ringkas boleh bawa satu rekod dari sebut harga terus ke invois dan pautan bayaran FPX. Baca lebih lanjut: [Sistem bisnes custom untuk SME](https://miraclemikhael.com/services/custom-business-systems) dan [cara integrate FPX dalam website](https://miraclemikhael.com/ms/panduan/cara-integrate-fpx-website).
+Bila tanda-tanda ini muncul, satu sistem ringkas boleh bawa satu rekod dari sebut harga terus ke invois dan pautan bayaran FPX. Baca lebih lanjut: [Cara buat invoice guna Excel (panduan penuh)](https://miraclemikhael.com/ms/panduan/cara-buat-invoice-guna-excel), [sistem bisnes custom untuk SME](https://miraclemikhael.com/services/custom-business-systems) dan [cara integrate FPX dalam website](https://miraclemikhael.com/ms/panduan/cara-integrate-fpx-website).
 
 ## Nota
 - Semua nama, alamat dan nombor dalam fail ialah **data contoh**. Gantikan dengan maklumat anda.
